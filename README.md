@@ -1,4 +1,4 @@
-# Time_Series_Project-Wisconsin_Employment
+# Time Series - Wisconsin Employment
 
 We analyse a time series of employment in various industries in Wisconsin from January 1961 to October 1975. The dataset consists of 178 monthly observations expressed in units of 1000 employees. It can be found in the tsdl R package.
 
