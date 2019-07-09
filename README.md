@@ -6,4 +6,4 @@ After performing an initial data analysis, we fit two classes of models to the d
   - SARIMA models
   - Generalized additive models
 
-Finally, each model is used to forecast the next two years of employment numbers.
+Finally, each model is used to forecast the next two years of employment numbers. In the appendix, we analyse the results obtained with LSTM models.
